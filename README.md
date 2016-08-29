@@ -1,2 +1,5 @@
-# GSI
-General Sensor Interface for STM32F4
+# GSI - General Sensor Interface API
+
+- stato in sviluppo
+
+
